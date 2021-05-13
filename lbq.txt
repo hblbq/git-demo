@@ -1,5 +1,8 @@
 lbqlzch  lbqlzch 666666666666666666666666666666666666666666
 lbqlzch  lbqlzch  7777777777777777777777777777777777777
+public static void main(){
+System.out.println();
+}
 lbqlzch  lbqlz
 lbqlzch  lbqlzch
 lbqlzch  lbqlzch
